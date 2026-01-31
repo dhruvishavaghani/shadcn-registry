@@ -60,7 +60,7 @@
         },
         {
           "path": "registry/new-york/blocks/example-with-css/example-card.css",
-          "type": "registry:component"
+          "type": "registry:style"
         }
       ]
     }
