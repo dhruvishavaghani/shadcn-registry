@@ -3,19 +3,7 @@
   "name": "acme",
   "homepage": "https://acme.com",
   "items": [
-    {
-      "name": "hello-world",
-      "type": "registry:component",
-      "title": "Hello World",
-      "description": "A simple hello world component",
-      "registryDependencies": ["button"],
-      "files": [
-        {
-          "path": "registry/new-york/blocks/hello-world/hello-world.tsx",
-          "type": "registry:component"
-        }
-      ]
-    },
+   
     {
       "name": "example-form",
       "type": "registry:component",
