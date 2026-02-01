@@ -14,7 +14,7 @@
       "files": [
         {
           "path": "registry/new-york/blocks/example-form/example-form.tsx",
-          "type": "registry:component"
+          "type": "registry:blocks"
         }
       ]
     }
